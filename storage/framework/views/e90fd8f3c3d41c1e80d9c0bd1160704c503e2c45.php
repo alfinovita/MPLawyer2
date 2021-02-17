@@ -1,0 +1,1 @@
+<?php /**PATH /home/idaman.org/public_html/lawyer/resources/views/frontend-client/layouts/loader.blade.php ENDPATH**/ ?>
